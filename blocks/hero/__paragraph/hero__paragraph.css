@@ -1,0 +1,11 @@
+.hero__paragraph {
+    margin: 0;
+    margin-bottom: 71px;
+    max-width: 580px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #C0C0C0;
+}

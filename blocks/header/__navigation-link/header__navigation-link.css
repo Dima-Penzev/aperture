@@ -1,0 +1,8 @@
+.header__navigation-link {
+    text-decoration: none;
+    margin-right: 32px;
+    /* font-weight: 400; */
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

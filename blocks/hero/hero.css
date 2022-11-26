@@ -1,0 +1,9 @@
+.hero {
+    min-height: 716px;
+    background-image: url(../../images/landscape.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
