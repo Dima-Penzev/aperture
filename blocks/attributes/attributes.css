@@ -1,0 +1,9 @@
+.attributes {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+}
