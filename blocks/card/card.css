@@ -2,3 +2,11 @@
     max-width: 576px;
     min-height: 600px;
 }
+
+.card:not(:nth-child(even)) {
+    margin-right: 16px;
+}
+
+.card:nth-child(n + 3) {
+    margin-top: 16px;
+}
