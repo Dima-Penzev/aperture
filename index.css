@@ -37,3 +37,16 @@
 @import url(./blocks/tools/__title/tools__title.css);
 @import url(./blocks/tools/__text/tools__text.css);
 @import url(./blocks/tools/__image/tools__image.css);
+@import url(./blocks/clients/clients.css);
+@import url(./blocks/section-subtitle/_place/section-subtitle_place_clients.css);
+@import url(./blocks/clients/__list/clients__list.css);
+@import url(./blocks/clients/__item/clients__item.css);
+@import url(./blocks/clients/__link/clients__link.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__content-container/footer__content-container.css);
+@import url(./blocks/footer/__content-info/footer__content-info.css);
+@import url(./blocks/footer/__content-title/footer__content-title.css);
+@import url(./blocks/footer/__content-list/footer__content-list.css);
+@import url(./blocks/footer/__content-link/footer__content-link.css);
+@import url(./blocks/footer/__business-container/footer__business-container.css);
+@import url(./blocks/footer/__pages-container/footer__pages-container.css);
