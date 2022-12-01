@@ -1,0 +1,12 @@
+.footer__subscribe {
+    max-width: 80%;
+    min-height: 132px;
+    margin: 0 auto;
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid #FFF;
+    border-left: none;
+    border-right: none;
+}

@@ -50,3 +50,13 @@
 @import url(./blocks/footer/__content-link/footer__content-link.css);
 @import url(./blocks/footer/__business-container/footer__business-container.css);
 @import url(./blocks/footer/__pages-container/footer__pages-container.css);
+@import url(./blocks/footer/__subscribe/footer__subscribe.css);
+@import url(./blocks/form/form.css);
+@import url(./blocks/form/__item/form__item.css);
+@import url(./blocks/form/__button/form__button.css);
+@import url(./blocks/footer/__social/footer__social.css);
+@import url(./blocks/footer/__social-info/footer__social-info.css);
+@import url(./blocks/footer/__social-list/footer__social-list.css);
+@import url(./blocks/footer/__social-item/footer__social-item.css);
+@import url(./blocks/footer/__social-link/footer__social-link.css);
+@import url(./blocks/footer/__social-image/footer__social-image.css);
